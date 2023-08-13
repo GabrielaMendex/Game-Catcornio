@@ -35,7 +35,7 @@ function draw() {
   }
   
   image(lago, 20, 330, 250, 250);
-  image(arvores, 390, 0, 170, 170);
+  image(arvore, 390, 0, 170, 170);
   image(personagem, andarX, andarY, tamanho, tamanho);
   image(peixe, posicaoPeixeX, posicaoPeixeY, 50, 50);
   

@@ -41,7 +41,7 @@ function draw() {
   
   textSize(25);
   fill(204, 255, 204);
-  text(contadorDePeixe + " Fishs", 430, 64);
+  text(contadorDePeixe + " Fishes", 430, 64);
 
   if (contadorDePeixe === 5) {
     rect(180, 240, 210, 80);
